@@ -1,0 +1,101 @@
+ItemType;name;coinPrice;healthIncrease;strenghIncrease;herosAllowed
+PotionConsumable;Extra Life;40;150;0;
+PotionConsumable;Água Tónica;2;30;0
+PotionConsumable;Red Bull;5;75;2
+PotionConsumable;Elixir dos falhados;2;30;0
+PotionConsumable;Água ardente;10;150;20
+PotionConsumable;Sopa da Avó;10;150;4
+PotionConsumable;Sumo de Limão Ácido;11;155;5
+PotionConsumable;Batido Herbalife;15;225;5
+PotionConsumable;Batido Prozis;5;75;4
+PotionConsumable;Leite Ucal;2;30;0
+PotionConsumable;Sumol Ananas;1;15;0
+PotionConsumable;Ice Tea;1;15;0
+PotionConsumable;Chá Camomila;4;60;0
+PotionConsumable;Chá Verde;5;75;0
+PotionConsumable;Chá Preto;3;45;0
+PotionConsumable;Coca-Cola;5;75;3
+PotionConsumable;Coca-Cola Sem Gás;3;45;0
+PotionConsumable;Batido Frutas;7;105;3
+PotionConsumable;Batido Vegetais;9;135;4
+PotionConsumable;Iogurte da Mimosa;5;75;0
+PotionComsumable;Sangria Tinto;4;60;1
+PotionComsumable;Sangria Branca;5;75;1
+PotionComsumable;Vinho do Porto;5;75;0
+PotionComsumable;Melaço;7;105;12
+PotionComsumable;Ginga de Òbidos;5;75;8
+PotionComsumable;Medronho Forte;14;210;6
+PotionComsumable;Sidra de Maça;3;45;0
+PotionComsumable;Sidra kopparberg;7;105;8
+PotionComsumable;Cerveja Artesanal;4;60;5
+PotionComsumable;Baileys;6;90;5
+PotionComsumable;Gin Tónico;10;150;5
+Weapon;Mjolnir;36;34;72;SemiGod
+Weapon;Stormbreaker;13;14;34;SemiGod
+Weapon;Soul Sword;12;12;28;SemiGod,Wizard
+Weapon;Willbreaker;14;16;34;SemiGod
+Weapon;Faithbreaker;15;16;32;SemiGod,Wizard
+Weapon;ThunderStrike;11;12;24;SemiGod
+Weapon;Excalibur;25;26;54;SemiGod,Wizard,Human,Mutant
+Weapon;ThunderBolt;20;20;46;SemiGod,Wizard
+Weapon;Mandarin's Rings;15;16;40;Wizard
+Weapon;Oak Staff;14;14;42;Wizard
+Weapon;Candy Cane;11;12;36;Wizard
+Weapon;Shaman's Conduit;10;12;34;Wizard
+Weapon;Fairy Wand;12;12;40;Wizard
+Weapon;Dowsing Rod;10;10;32;Wizard
+Weapon;Yaka Arrow;30;34;90;Wizard
+Weapon;Iron Man Armor;25;28;80;Human
+Weapon;Captain America's Shield;14;14;42;Human
+Weapon;Energy Sword;23;24;60;Human,SuperAnimal
+Weapon;Phoenix Blade;15;14;44;Human,SuperAnimal,Mutant
+Weapon;God killer;10;10;32;Human,Wizard
+Weapon;DragonFang;12;12;40;Human,Mutant
+Weapon;Anti-Gravity gun;13;14;46;Human,SuperAnimal
+Weapon;Falcon's Twin Guns;11;12;34;Human,SuperAnimal
+Weapon;ChainSaw;9;10;30;Human,SuperAnimal
+Weapon;Scorpion's Spear;10;12;38;Human,SuperAnimal
+Weapon;Web Shooters;12;14;42;Mutant,SuperAnimal
+Weapon;Wolverine's Claws;14;14;48;Mutant,SuperAnimal
+Weapon;Proton Cannon;29;30;78;Mutant,Human
+Weapon;Titan Bow;13;14;44;Mutant,SuperAnimal,Human
+Weapon;Apollo Bow;15;16;50;Mutant,Human
+Weapon;Assasin Dagger;13;14;44;Mutant,Human,SuperAnimal
+Weapon;Atomizer;14;14;50;SuperAnimal,Human
+Weapon;Blaster Launcher;15;16;52;SuperAnimal,Human
+Weapon;Flail Gun;12;12;38;SuperAnimal,Human
+Weapon;Laser Gun;10;10;32;SuperAnimal,Human
+Weapon;Impact Hammer;9;10;30;SuperAnimal
+Weapon;Vector Cannon;11;12;38;SuperAnimal
+Weapon;Dual Pistols;15;16;46;SuperAnimal,Human
+CombatConsumable;Mortal ray;10;90;
+CombatConsumable;Blast Burn;11;99;
+CombatConsumable;Heat Wave;9;81;
+CombatConsumable;Charge Beam;8;72;
+CombatConsumable;Dark Pulse;15;135;
+CombatConsumable;Hydro Pump;9;72;
+CombatConsumable;Ice Burn;12;108;
+CombatConsumable;Infestation;13;117;
+CombatConsumable;Prismatic laser;10;90;
+CombatConsumable;Parabolic charge;9;81;
+CombatConsumable;Psycho Boost;8;72;
+CombatConsumable;PsyWave;7;63;
+CombatConsumable;Sandsear Storm;8;72;
+CombatConsumable;Mud shot;14;126;
+CombatConsumable;Mud Bomb;10;90;
+CombatConsumable;Mystical Fire;11;99;
+CombatConsumable;Fire Spin;8;72;
+CombatConsumable;Freezy Frost;11;99;
+CombatConsumable;Fairy Wind;12;108;
+CombatConsumable;Air Slash;11;99;
+CombatConsumable;Acid Spray;10;90;
+CombatConsumable;Blood Moon;9;81;
+CombatConsumable;Glass knot;8;72;
+CombatConsumable;Power Gem;7;63;
+CombatConsumable;Razor Wind;6;54;
+CombatConsumable;Magical leaf;9;81;
+CombatConsumable;Electro Shot;10;90;
+CombatConsumable;Mirro shot;19;171;
+CombatConsumable;Energy Ball;18;162;
+CombatConsumable;Snipe Shot;17;153;
+CombatConsumable;Judgment;16;144;
